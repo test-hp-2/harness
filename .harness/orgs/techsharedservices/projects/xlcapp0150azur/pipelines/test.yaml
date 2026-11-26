@@ -41,4 +41,4 @@ pipeline:
       type: Secret
       description: ""
       required: false
-      value: account.xlcpandadynamickvappskeleton
+      value: test-demo3
